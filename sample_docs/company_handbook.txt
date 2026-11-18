@@ -1,0 +1,13 @@
+Acme Corp Employee Handbook
+
+Working Hours
+Our standard working hours are 9:30 AM to 6:30 PM, Monday to Friday. Employees can work from home two days a week after completing their probation period.
+
+Leave Policy
+Every full-time employee gets 20 days of paid leave per year. Up to 5 unused leave days can be carried over to the next year. Sick leave is separate and is 10 days per year.
+
+Interview Process
+Our hiring process has three rounds: a take-home assignment, a technical interview and a final HR round. Technical interviews are 60 minutes long and are conducted over Google Meet. Candidates can book an interview slot through our assistant.
+
+Benefits
+All employees get health insurance for themselves and their family, a yearly learning budget of 500 USD and a new laptop on joining.
